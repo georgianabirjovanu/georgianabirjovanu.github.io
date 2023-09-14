@@ -1,6 +1,6 @@
 # Review for log cabins from Johnsons Gardens (Polhill)
 
-This page is created to leave a review for Johnsons Gardens Cabin and to share my opinion. 
+This page is created to leave a review for Johnsons Gardens Cabin and to share my opinion.
 
 We had a Garden Cabin installed by Johnsons (Denver, 5x4m). Here is our honest review along with some pictures.
 
@@ -22,3 +22,29 @@ Exposure of Garden Room Base: One of the major concerns I had was the complete e
 Unexpected Delay: The construction job took four days, which disrupted our plans for other contractors, specifically painters scheduled for the weekend and an electrician for Monday. What frustrated me further was the lack of timely communication regarding the extended timeline. I only found out about the delay on Friday afternoon, giving me less than 24 hours' notice to cancel the painters, resulting in a loss of a £250 deposit. Everyone "promised" us that it will only take two days and they will send enough people (well, just two).
 
 Underestimating the work: Equally, the entire job was underestimated and not enough workers were assigned to the job. I understand that the company wants to make profits and build as many cabins as possible at the same time but it is not acceptable the experience we had with this construction. Ultimately, it all fell onto us, our work, risking the integrity of the construction, having to call the Logistics team each day and to request that the team comes back and finishes the job.
+
+Not delivering the full product - accesorries like door stops were not delivered by them, we had to ask for these.
+
+I will group the pictures as it follows:
+
+Building mistakes:
+![Crack in the wood made by the builders with a nail - confirmed by Johnsons](resources/crackInWoodMadeByThem.png)
+![Dent in the window frame made by them during construction as it matches the door handle](resources/dentInWindowFrame.png)
+![Second base pillar is wonky](resources/unevenBasePillar.png)
+
+Dirty cabin at the end:
+![Dirt on the first step and on the frame](resources/dirtOnStepAndFrame.png)
+![Another picture of the same dirty cabin they delivered](resources/dirtyStep.png)
+
+Issues with the wood:
+![Crack in the wood made by the builders - their mistake](resources/crackInWoodMadeByThem.png)
+
+Construction rubbish left behind:
+![Plastics that should have not been left on the site](resources/morePlastic.png)
+![More plastics](resources/morePlastics.png)
+![More gray plastic under the branch](resources/grayPlasticUnderBranch.png)
+![Workers waters](resources/workersWaters.png)
+
+Dumping things on our newly cleaned area and covered by membrane without asking us. 
+They thought, that perhaps anything behind the log cabin is saving their time and can become a tip:
+![Rubbish in renovated area where we built a retaining wall](resources/rubbishInRenovatedArea.png)
