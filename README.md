@@ -1,4 +1,4 @@
-# Review for log cabins from Johnsons Gardens (Polhill)
+# Review for Denver garden cabin from Johnsons Gardens (Polhill)
 
 This page is created to leave a review for Johnsons Gardens Cabin and to share my opinion.
 
